@@ -1,10 +1,10 @@
 # Hello! Welcome to my GitHub profile 👋
 
-🧑‍💻 Guilherme — Programador & Criador de Soluções Úteis e Bonitas
+🧑‍💻 Guilherme — Developer & Creator of Useful, Beautiful Solutions
 
-Desenvolvedor focado em criar sistemas práticos, organizados e modernos, sempre buscando unir funcionalidade, estética e simplicidade. Tenho experiência construindo ferramentas web completas com HTML, CSS, JavaScript, além de trabalhar com Python para análise e manipulação de dados.
+Developer focused on building practical, organized, and modern systems, always aiming to combine functionality, aesthetics, and simplicity. I have experience creating full web tools using HTML, CSS, JavaScript, as well as working with Python for data handling and analysis.
 
-Além da programação, atuo profissionalmente com iluminação de palco, sendo técnico e VJ, criando experiências visuais sincronizadas em shows — o que influencia meu olhar para design, usabilidade e precisão.
+I also work professionally with stage lighting, as a lighting technician and VJ, creating synchronized visual experiences for live shows — which shapes my attention to design, usability, and precision.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=guilhermelopesdev&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/guilhermelopesdev/github-readme-stats)
 
